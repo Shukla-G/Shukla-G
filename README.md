@@ -7,3 +7,4 @@
 
 
 <img align="left" alt="Shukla-G's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shukla-g&show_icons=true&hide_border=true&theme=radical" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shukla-g)](https://github.com/anuraghazra/github-readme-stats)
