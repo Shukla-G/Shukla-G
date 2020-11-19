@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Custom Bots
+- 🔭 I’m currently working on Custom Bots and my own Meme API
 - 🌱 I’m learning javascript and python
 - 📫 Reach me on [Discord!](https://discord.gg/high5)
 
