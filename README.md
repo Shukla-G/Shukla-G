@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Custom Bots and my own Meme API
+- 🔭 I’m currently working on Custom discord bots
 - 🌱 I’m learning javascript and python
 - 📫 Reach me on <a href="https://discord.gg/high5"><img src="https://img.shields.io/badge/Discord-BhosadChacha%236969-7289DA?logo=discord&style=for-the-badgel" /></a>
 
