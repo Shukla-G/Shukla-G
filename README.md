@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Custom discord bots
+- 🔭 I’m currently working on [Aulus](https://top.gg/bot/753494926213513236) and [Dank Reminder](https://top.gg/bot/752746839270227988)
 - 🌱 I’m learning javascript and python
 - 📫 Reach me on <a href="https://discord.gg/high5"><img src="https://img.shields.io/badge/Discord-BhosadChacha%236969-7289DA?logo=discord&style=for-the-badgel" /></a>
 
